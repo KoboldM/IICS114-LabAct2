@@ -1,0 +1,43 @@
+Lab Activity 2 for Java Programming in University of Santo Tomas
+/*
+        What we want to do: 
+            Introduce the list of TV shows inside the Java program
+        Start:
+            1) Show the default list of the TV Series in Alphabetical
+            2) Have query options inside the GUI
+            
+            3) Name:
+            4) Year Started:
+            5) Classification:
+            6) Rating:
+        
+            Name Queries:
+                Alphabetical A -> Z
+                Alphabetical Z -> A
+                Only A
+                Only B
+                Only C
+                Only D
+                Only E
+                Only F
+                until Z
+            Year Queries:
+                60s
+                70s
+                80s
+                90s
+                2000s
+                2010s
+            Classification Queries:
+                Little Kids ( 0 - 7 yrs old )
+                Older Kids ( 0- 12 )
+                Teens ( 0-19 )
+                All ( 0 onwards )
+            Rating
+                1.0-2.0
+                2.0-3.0
+                3.0-4.0
+                4.0-5.0
+                Ascending
+                Descending
+     */   
